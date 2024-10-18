@@ -3,7 +3,7 @@ I'm Philani Manana from Durban and i am a Software engineering graduate .I reall
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhilaniGcina)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋, my name is Philani Manana
 #### Software Developer
-![Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Software Developer](https://github.com/PhilaniGcina/PhilaniGcina/blob/main/github-banner.png)
 
 I'm Philani Manana from Durban and i am a Software engineering graduate .I really enjoy learning more about Tech.
 
