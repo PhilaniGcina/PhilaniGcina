@@ -1,9 +1,10 @@
 ![Software Developer](https://github.com/PhilaniGcina/PhilaniGcina/blob/main/github-banner.png)
-# I am is Philani Manana
+# I am Philani Manana
 
 # Software Developer
 
-I am a young energetic Software engineering graduate with a Bachelor Degree of Information and communication Technology .I really enjoy learning more about Tech.I am passionate about solving complex problems and creating innovative solutions. I enjoy turning ideas into functional applications.I’m always eager to learn new technologies and improve my skills.Im am Engineering tomorrow's dreams with today's code.
+I am a young energetic Software engineering graduate with a Bachelor Degree of Information and communication Technology .I really enjoy learning more about Tech.I am passionate about solving complex problems and creating innovative solutions. I enjoy turning ideas into functional applications.I’m always eager to learn new technologies and improve my skills.
+Im am Engineering tomorrow's dreams with today's code.
 
 ### Skills
 * 💻 HTML CSS JAVASCRIPS
