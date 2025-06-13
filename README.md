@@ -7,9 +7,10 @@ I am a young energetic Software engineering graduate with a Bachelor Degree of I
 Im am Engineering tomorrow's dreams with today's code.
 
 ### Skills
-* 💻 HTML CSS JAVASCRIPTS
+* 💻 HTML,CSS & JavaScripts
 * 🐍 Python
-* 🗃 SQL
+* 🕹️NodeJS & Express
+* 🗃 SQL & PostgreSQL
 
 ### Social Links
 
